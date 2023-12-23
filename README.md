@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1159857060083671084/1188178103198044250/standard.gif?ex=65999417&is=65871f17&hm=2e9b94828701eaddab987dcce2669a838bbe2c3bc5631823a719154c9440e6c0&"  width="1000" alt="my-banner"/>
-</p>
+
 
 ![GitHub followers](https://img.shields.io/github/followers/amajaying?label=Follow&style=social) &nbsp;
 <img alt = "profile views" src="https://komarev.com/ghpvc/?username=amajaying&color=brightgreen">
